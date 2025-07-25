@@ -51,7 +51,7 @@ I'm a **multidisciplinary creator** passionate about bridging the gap between de
 
 ## 🚀 Featured Projects
 
-### 🎮 [The Orphan](https://github.com/nacer0s/the-orphan)
+### 🎮 [The Orphan]
 **2D Pixel Art Story Game | Godot Engine**
 - Immersive narrative-driven gameplay with custom pixel art assets
 - Original soundtrack and sound design
