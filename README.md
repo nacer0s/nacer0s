@@ -59,7 +59,7 @@ I'm a **multidisciplinary creator** passionate about bridging the gap between de
 
 *Technologies: Godot, Pixel Art, Game Design*
 
-### 🏢 [DYNEOSIST](https://github.com/nacer0s/dyneosist-branding)
+### 🏢 [DYNEOSIST]
 **Multidisciplinary Startup Branding**
 - Complete brand identity system including logo, colors, and typography
 - Marketing materials and brand guidelines
@@ -67,7 +67,7 @@ I'm a **multidisciplinary creator** passionate about bridging the gap between de
 
 *Technologies: Adobe Illustrator, Photoshop, Brand Strategy*
 
-### 🎯 [Mafia Game](https://github.com/nacer0s/mafia-game)
+### 🎯 [Mafia Game]
 **Online Web Game with Arabic Support**
 - Real-time multiplayer game mechanics
 - Full Arabic localization and RTL support
@@ -75,21 +75,13 @@ I'm a **multidisciplinary creator** passionate about bridging the gap between de
 
 *Technologies: Flask, JavaScript, MySQL, Socket.io*
 
-### 🎨 [DynamoCrate](https://github.com/nacer0s/dynamocrate-identity)
+### 🎨 [DynamoCrate]
 **Company Visual Identity & Brand Book**
 - Comprehensive brand identity development
 - Logo design and brand guidelines
 - Marketing material templates
 
 *Technologies: Adobe Creative Suite, Brand Development*
-
-### ⚡ [Minecraft Web Admin](https://github.com/nacer0s/minecraft-web-admin)
-**Flask-based Admin Panel**
-- Server management dashboard with MySQL integration
-- Player statistics and server monitoring
-- Plugin configuration interface
-
-*Technologies: Flask, MySQL, Paper/Forge APIs*
 
 ---
 
