@@ -67,7 +67,7 @@ I'm a **multidisciplinary creator** passionate about bridging the gap between de
 
 *Technologies: Adobe Illustrator, Photoshop, Brand Strategy*
 
-### 🎯 [Mafia Game]
+### 🎯 [Mafia Game](https://github.com/nacer0s/Who-are-the-mafia)
 **Online Web Game with Arabic Support**
 - Real-time multiplayer game mechanics
 - Full Arabic localization and RTL support
