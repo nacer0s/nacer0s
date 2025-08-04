@@ -51,37 +51,11 @@ I'm a **multidisciplinary creator** passionate about bridging the gap between de
 
 ## 🚀 Featured Projects
 
-### 🎮 [The Orphan]
-**2D Pixel Art Story Game | Godot Engine**
-- Immersive narrative-driven gameplay with custom pixel art assets
-- Original soundtrack and sound design
-- Multiple story branches and character development
-
-*Technologies: Godot, Pixel Art, Game Design*
-
-### 🏢 [DYNEOSIST]
-**Multidisciplinary Startup Branding**
-- Complete brand identity system including logo, colors, and typography
-- Marketing materials and brand guidelines
-- Digital and print collateral design
-
-*Technologies: Adobe Illustrator, Photoshop, Brand Strategy*
-
 ### 🎯 [Mafia Game](https://github.com/nacer0s/Who-are-the-mafia)
 **Online Web Game with Arabic Support**
 - Real-time multiplayer game mechanics
 - Full Arabic localization and RTL support
 - Custom game lobby and chat system
-
-*Technologies: Flask, JavaScript, MySQL, Socket.io*
-
-### 🎨 [DynamoCrate]
-**Company Visual Identity & Brand Book**
-- Comprehensive brand identity development
-- Logo design and brand guidelines
-- Marketing material templates
-
-*Technologies: Adobe Creative Suite, Brand Development*
 
 ---
 
